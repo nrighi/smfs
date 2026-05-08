@@ -176,6 +176,25 @@ The file `examples.nb` provides a minimal introduction to the package and demons
 
 ---
 
+## Citation
+
+If you use `SMFs` in work that leads to a publication, please cite the companion paper:
+
+```bibtex
+@article{Leedom:2026nby,
+    author = "Leedom, Jacob M. and Righi, Nicole and Westphal, Alexander",
+    title = "{Automorphic Structures of Heterotic Vacua}",
+    eprint = "2605.05322",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "DESY-26-063",
+    month = "5",
+    year = "2026"
+}
+```
+
+---
+
 ## Author
 
 Nicole Righi
